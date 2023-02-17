@@ -1,0 +1,14 @@
+﻿'task 4 ass2.exe' (Win32): Loaded 'C:\Users\workstation\source\repos\task 4 ass2\Debug\task 4 ass2.exe'. Symbols loaded.
+'task 4 ass2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'task 4 ass2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'task 4 ass2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'task 4 ass2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'task 4 ass2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'task 4 ass2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x2a74 has exited with code 0 (0x0).
+'task 4 ass2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'task 4 ass2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'task 4 ass2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+The thread 0x10a8 has exited with code 0 (0x0).
+The thread 0x2a04 has exited with code 0 (0x0).
+The program '[1488] task 4 ass2.exe' has exited with code 0 (0x0).
